@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-C:\Users\milto\OneDrive\Área de Trabalho\Area de Trabalho\Desenvolvimento\intro-spring-jpa\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1776313491.index
-\intro-spring-jpa\src\main\java
